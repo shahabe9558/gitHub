@@ -1,0 +1,12 @@
+//git comments
+git status     // tell changes in which file
+git diff      // tell what changes have done 
+git init     // initialize empty git repository
+ls          // tells the path
+ls -a      // tell the previous
+
+
+
+touchScreen
+scratchLess-gorilla-glass
+git ko kaise malum chal raha hai kaise chal raha hai
